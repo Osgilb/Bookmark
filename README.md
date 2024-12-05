@@ -1,4 +1,4 @@
-# Loop Studios `Final Project`
+# Bookmark `Final Project`
 
 ![Thumbnail](/thumbnail/bookmark.gif)
 
