@@ -3,7 +3,7 @@
 ![Thumbnail](/thumbnail/bookmark.gif)
 
 ## Introduction
-**Bookmark** is a brand that delivers world-class virtual reality experiences, transforming businesses through award-winning digital solutions that seamlessly connect with their audiences and elevate their brands.
+**Bookmark** is a simple bookmark manager that offers a clean and user-friendly interface to organize your favorite websites. It allows users to open a new browser tab and instantly load their saved sites. Bookmark is available for free and provides quick installation options for Chrome and Firefox browsers.
 
 ## Tech Stack
 - **HTML**
